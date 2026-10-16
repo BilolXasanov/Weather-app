@@ -63,7 +63,7 @@ export default {
 <style>
 
 .error-msg {
-  color: #fff;
+  color: #d93025;
   text-align: center;
   padding: 10px 20px;
   font-size: 18px;
